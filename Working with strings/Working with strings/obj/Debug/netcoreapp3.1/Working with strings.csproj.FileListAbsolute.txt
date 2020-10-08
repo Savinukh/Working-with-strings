@@ -1,0 +1,13 @@
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\bin\Debug\netcoreapp3.1\Working with strings.exe
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\bin\Debug\netcoreapp3.1\Working with strings.deps.json
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\bin\Debug\netcoreapp3.1\Working with strings.runtimeconfig.json
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\bin\Debug\netcoreapp3.1\Working with strings.runtimeconfig.dev.json
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\bin\Debug\netcoreapp3.1\Working with strings.dll
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\bin\Debug\netcoreapp3.1\Working with strings.pdb
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\obj\Debug\netcoreapp3.1\Working with strings.csprojAssemblyReference.cache
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\obj\Debug\netcoreapp3.1\Working with strings.AssemblyInfoInputs.cache
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\obj\Debug\netcoreapp3.1\Working with strings.AssemblyInfo.cs
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\obj\Debug\netcoreapp3.1\Working with strings.csproj.CoreCompileInputs.cache
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\obj\Debug\netcoreapp3.1\Working with strings.dll
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\obj\Debug\netcoreapp3.1\Working with strings.pdb
+C:\Users\Ёжик\source\repos\Working with strings\Working with strings\obj\Debug\netcoreapp3.1\Working with strings.genruntimeconfig.cache
